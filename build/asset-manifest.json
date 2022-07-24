@@ -1,12 +1,15 @@
 {
   "files": {
+    "main.css": "/Martinkkyalo10/note_keeper_app/static/css/main.0efe3f54.css",
     "main.js": "/Martinkkyalo10/note_keeper_app/static/js/main.02f86eb5.js",
     "static/js/787.e8f39572.chunk.js": "/Martinkkyalo10/note_keeper_app/static/js/787.e8f39572.chunk.js",
     "index.html": "/Martinkkyalo10/note_keeper_app/index.html",
+    "main.0efe3f54.css.map": "/Martinkkyalo10/note_keeper_app/static/css/main.0efe3f54.css.map",
     "main.02f86eb5.js.map": "/Martinkkyalo10/note_keeper_app/static/js/main.02f86eb5.js.map",
     "787.e8f39572.chunk.js.map": "/Martinkkyalo10/note_keeper_app/static/js/787.e8f39572.chunk.js.map"
   },
   "entrypoints": [
+    "static/css/main.0efe3f54.css",
     "static/js/main.02f86eb5.js"
   ]
 }
